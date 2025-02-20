@@ -70,7 +70,7 @@ for y in range(len(array_final)):
 
 plt.plot(x_arr, y_arr)
 
-# plt.show()
+plt.show()
 
 m=3
 lambda_2=470
